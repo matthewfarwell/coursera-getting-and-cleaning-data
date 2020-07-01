@@ -14,6 +14,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The dataset includes the following files:
 
 - 'tidy_dataset.txt'
+- 'mean_dataset.txt'
 
 # tidy_dataset.txt
 
